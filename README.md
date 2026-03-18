@@ -65,99 +65,9 @@ CurrentWork now = {
 };
 ```
 
-- 🔧 Building performant, memory-efficient systems tools
-- 🎮 Exploring embedded systems & hardware interfacing
-- 📚 Deep-diving into kernel internals & OS concepts
-- 🚀 Contributing to open-source systems projects
-
----
-
-## 💻 Development Philosophy
-
-> **"If you can't explain it simply, you don't understand it well enough."**
-
-- ⚡ **Performance First:** Zero-cost abstractions, cache-friendly code
-- 🔒 **Memory Safety:** Valgrind clean, ASAN validated
-- 📖 **Readable Code:** Self-documenting, well-commented
-- 🧪 **Test-Driven:** Unit tests, integration tests, fuzzing
-- 🌍 **POSIX Compliant:** Portable, standards-based solutions
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syncn0ll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syncn0ll&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Syncn0ll&repo=project-name&theme=tokyonight)](https://github.com/Syncn0ll/project-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Syncn0ll&repo=another-project&theme=tokyonight)](https://github.com/Syncn0ll/another-project)
-
-</div>
-
----
-
-## 🌱 Learning & Interests
-```python
-interests = {
-    "currently_learning": ["Kernel development", "Network protocols", "Compiler design"],
-    "reading": ["The Linux Programming Interface", "Computer Systems: A Programmer's Perspective"],
-    "side_projects": ["Custom shell", "Network packet analyzer", "Memory allocator"],
-    "hobbies": ["CTF competitions", "Code golf", "Open source contributions"]
-}
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Syncn0ll)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Syncn0ll&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Syncn0ll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syncn0ll&theme=tokyo-night)](https://github.com/Syncn0ll)
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-**"Writing code in C is like performing open-heart surgery while the patient is awake and criticizing your technique."**
-
-*~ Anonymous Systems Programmer*
 
 </div>
 
@@ -167,6 +77,6 @@ interests = {
 
 ![Visitor Count](https://profile-counter.glitch.me/Syncn0ll/count.svg)
 
-**⭐ From [Syncn0ll](https://github.com/Syncn0ll) | Built with 💙 and ☕**
+**From [Syncn0ll](https://github.com/Syncn0ll) | Synull**
 
 </div>
