@@ -1,7 +1,4 @@
 <div align="center">
-[![GitHub followers](https://img.shields.io/github/followers/Syncn0ll?style=social)](https://github.com/Syncn0ll)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Syncn0ll?style=social)](https://twitter.com/Syncn0ll)
-
 </div>
 
 ---
@@ -54,11 +51,7 @@ CurrentWork now = {
     .tech_stack = "C, Assembly, kernel APIs"
 };
 ```
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </div>
-
 <div align="center">
 
 **From [Syncn0ll](https://github.com/Syncn0ll) | Synull**
